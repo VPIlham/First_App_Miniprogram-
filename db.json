@@ -1,20 +1,22 @@
-[
-      {
-        "id": 1,
-        "name": "Paket 30 Hari 20GB",
-        "price": 50000,
-        "active": true
-      },
-      {
-        "id": 2,
-        "name": "Paket 7 Hari 10GB",
-        "price": 20000,
-        "active": true
-      },
-      {
-        "id": 3,
-        "name": "Paket 3 Hari 5GB",
-        "price": 10000,
-        "active": false
-      }
-]
+{
+      "packages": [
+            {
+              "id": 1,
+              "name": "Paket 30 Hari 20GB",
+              "price": 50000,
+              "active": true
+            },
+            {
+              "id": 2,
+              "name": "Paket 7 Hari 10GB",
+              "price": 20000,
+              "active": true
+            },
+            {
+              "id": 3,
+              "name": "Paket 3 Hari 5GB",
+              "price": 10000,
+              "active": false
+            }
+      ]
+}

@@ -1,4 +1,15 @@
 {
+    "my_package": {
+      "id": 1,
+      "name": "Paket 30 Hari 20GB",
+      "price": 50000,
+    },
+    "user": {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "wallet": 200000,
+      "phone": "081316075580",
+    },
       "packages": [
             {
               "id": 1,
